@@ -39,7 +39,10 @@ Here's a walkthrough of implemented required features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
+
 GIF created with Kap for macOS
+[Kapture 2025-06-12 at 21.29.57.gif.download.zip](https://github.com/user-attachments/files/20719682/Kapture.2025-06-12.at.21.29.57.gif.download.zip)
+
 
 ## Notes
 
