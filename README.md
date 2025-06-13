@@ -5,7 +5,10 @@ Submitted by: **Himavant Kerpurapu**
 This web app: A platform for tech enthusiasts to discover and share community events, workshops, and resources. The app features a modern, responsive design with a focus on tech-related events and learning opportunities.
 
 Time spent: **10** hours spent in total
-<img width="1409" alt="Screenshot 2025-06-12 at 9 25 02 PM" src="https://github.com/user-attachments/assets/43f1f009-eedc-4a41-893a-5c09bfe927af" />
+<img width="1399" alt="Screenshot 2025-06-12 at 9 48 36 PM" src="https://github.com/user-attachments/assets/836c87d4-2c96-4c23-aad6-7afe9571d852" />
+<img width="1424" alt="Screenshot 2025-06-12 at 9 48 48 PM" src="https://github.com/user-attachments/assets/379d617c-48e9-4c13-b7e0-a8301eeb05da" />
+
+<img width="1416" alt="Screenshot 2025-06-12 at 9 48 19 PM" src="https://github.com/user-attachments/assets/fd33f919-daca-435b-84e4-0cc017f3f5f2" />
 
 ## Required Features
 
@@ -41,8 +44,7 @@ Here's a walkthrough of implemented required features:
 <!-- Replace this with whatever GIF tool you used! -->
 
 GIF created with Kap for macOS
-[Kapture 2025-06-12 at 21.29.57.gif.download.zip](https://github.com/user-attachments/files/20719682/Kapture.2025-06-12.at.21.29.57.gif.download.zip)
-
+the gif function is not working properly pls excuse, pls download the codebase and run it in own laptop sorry for the inconvenience caused!!
 
 ## Notes
 
