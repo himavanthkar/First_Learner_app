@@ -5,6 +5,7 @@ Submitted by: **Himavant Kerpurapu**
 This web app: A platform for tech enthusiasts to discover and share community events, workshops, and resources. The app features a modern, responsive design with a focus on tech-related events and learning opportunities.
 
 Time spent: **10** hours spent in total
+<img width="1409" alt="Screenshot 2025-06-12 at 9 25 02 PM" src="https://github.com/user-attachments/assets/43f1f009-eedc-4a41-893a-5c09bfe927af" />
 
 ## Required Features
 
