@@ -42,9 +42,9 @@ Here's a walkthrough of implemented required features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
+https://imgur.com/a/gjYnDMk
+pls go to the link for the gif video 
 
-GIF created with Kap for macOS
-the gif function is not working properly pls excuse, pls download the codebase and run it in own laptop sorry for the inconvenience caused!!
 
 ## Notes
 
