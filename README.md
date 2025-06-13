@@ -46,6 +46,11 @@ https://imgur.com/a/gjYnDMk
 pls go to the link for the gif video 
 
 
+https://github.com/user-attachments/assets/556cd279-7096-4891-aac6-418ff79b8172
+
+
+
+
 ## Notes
 
 The main challenges encountered while building the app were:
