@@ -16,15 +16,11 @@ The following **required** functionality is completed:
 
 - [x] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
   - [x] Header/title describing the theme is displayed
-- [x] **At least 10 unique events or resources are displayed in a responsive card format**
-  - [x] There are at least 10 cards displayed 
-  - [x] The cards should be displayed in an organized format (ex. a grid, or in one line)
-  - [x] Each card should include some information about the event or resource
 
-The following **optional** features are implemented:
 
-- [x] Buttons or links to a related resources are on each card component
-  - [x] All cards have buttons or links in addition to text
+The following features are implemented:
+
+
 - [x] The site is responsive for both desktop and mobile formats
   - [x] Web app is shown in a mobile format
 
@@ -51,13 +47,7 @@ https://github.com/user-attachments/assets/556cd279-7096-4891-aac6-418ff79b8172
 
 
 
-## Notes
 
-The main challenges encountered while building the app were:
-- Setting up the initial project structure with Vite and React
-- Implementing responsive design for different screen sizes
-- Managing state and data flow between components
-- Ensuring consistent styling across different browsers
 
 ## License
 
