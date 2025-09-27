@@ -1,6 +1,6 @@
 # Tech Community Board
 
-Submitted by: **Himavant Kerpurapu**
+
 
 This web app: A platform for tech enthusiasts to discover and share community events, workshops, and resources. The app features a modern, responsive design with a focus on tech-related events and learning opportunities.
 
