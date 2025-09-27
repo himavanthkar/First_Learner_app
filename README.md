@@ -1,4 +1,4 @@
-# Web Development Project 1 - Tech Community Board
+# Tech Community Board
 
 Submitted by: **Himavant Kerpurapu**
 
